@@ -1,0 +1,1 @@
+A finales de 2023 comencé este proyecto pero ya después de muchos cambios decidí subirlo al publico, comenzando por resolver y desintegrar mis propios codigos para un mejor entendimiento, ya que mucho está diverso tanto lógica mia como de lo LLM (GPT, GEMINI, ETC)
